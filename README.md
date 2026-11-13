@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/matheusconaga/matheusconaga/main/assets/capagit.svg"
+    src="https://raw.githubusercontent.com/matheusconaga/matheusconaga/main/assets/capagit.png"
     width="100%"
     alt="Matheus Lula - GitHub Banner"
   />
