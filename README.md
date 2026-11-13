@@ -1,17 +1,4 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" width="180">
-      <img src="https://github.com/matheusconaga/matheusconaga/blob/main/assets/eu_persona.png" width="150px" alt="Matheus Lula" height: auto; display: block; margin: 0 auto;"/>
-    </td>
-    <td valign="middle" align="center" width="500">
-  <h1>👋 Hello, I’m Matheus Lula 🦑</h1>
-  <p><b><i>Full-Stack Developer • React • Flutter • FastAPI • AI & Automation</i></b></p>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=20&center=true&vCenter=true&width=500&lines=%2B2+years+building+digital+solutions;React+•+Flutter+•+FastAPI;Performance+•+UX%2FUI+•+AI" />
-  </p>
-</td>
-  </tr>
-</table>
+<img src="https://github.com/matheusconaga/matheusconaga/blob/main/assets/capagit.svg" width="150px" alt="Matheus Lula" height: auto; display: block; margin: 0 auto;"/>
 
 <!-- Botões de Redes e CV Centralizados Abaixo -->
 <div align="center" style="margin-top: 20px;">
