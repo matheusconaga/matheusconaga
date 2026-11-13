@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/matheusconaga/matheusconaga/main/assets/capagit.png"
+    src="https://raw.githubusercontent.com/matheusconaga/matheusconaga/main/assets/capagit.svg"
     width="100%"
     alt="Matheus Lula - GitHub Banners"
   />
@@ -16,7 +16,14 @@
 
 ## 🧑‍💻 About me
 
-Brazilian Full-Stack Developer with a degree in Systems Analysis and Development from IFPI, with +2 years of experience building web, mobile, and scalable API applications using React, TypeScript, Flutter, FastAPI, and Node.js, focused on performance, UX/UI, and AI automation.
+Software Developer with 2+ years of experience building
+web applications, REST APIs and full-stack solutions.
+
+I work across frontend and backend development, focusing
+on clean architecture, database design, API integrations,
+automated testing and CI/CD.
+
+I'm also interested in AI integrations and process automation.
 
 <details open> 
   <summary><h2>🚀 Featured Projects</h2></summary>
