@@ -1,4 +1,10 @@
-<img src="https://github.com/matheusconaga/matheusconaga/blob/main/assets/capagit.svg" width="150px" alt="Matheus Lula" height: auto; display: block; margin: 0 auto;"/>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/matheusconaga/matheusconaga/main/assets/capagit.svg"
+    width="100%"
+    alt="Matheus Lula - GitHub Banner"
+  />
+</div>
 
 <!-- Botões de Redes e CV Centralizados Abaixo -->
 <div align="center" style="margin-top: 20px;">
@@ -74,8 +80,8 @@ Brazilian Full-Stack Developer with a degree in Systems Analysis and Development
   
 <div align="center">
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" alt="Matheus Lula's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=matheusconaga&show_icons=true&count_private=true&theme=github_dark" height="180px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" alt="Matheus Lula's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=matheusconaga&langs_count=8&layout=compact&theme=github_dark" height="180px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" alt="Matheus Lula's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=matheusconaga&show_icons=true&count_private=true&theme=github_dark" height="180px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" alt="Matheus Lula's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=matheusconaga&langs_count=8&layout=compact&theme=github_dark" height="180px"/></a>
 
 </div>
 </details>
