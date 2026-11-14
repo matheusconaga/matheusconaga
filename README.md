@@ -16,14 +16,13 @@
 
 ## 🧑‍💻 About me
 
-Software Developer with 2+ years of experience building
-web applications, REST APIs and full-stack solutions.
+Software Developer with 2+ years of experience building and maintaining web applications, REST APIs and full-stack solutions.
 
-I work across frontend and backend development, focusing
-on clean architecture, database design, API integrations,
-automated testing and CI/CD.
+My primary focus is Backend Development with Python and FastAPI, working with PostgreSQL, API integrations, authentication and automated testing.
 
-I'm also interested in AI integrations and process automation.
+I also have experience with React, TypeScript and Node.js, along with Docker, CI/CD and process automation.
+
+I'm particularly interested in backend engineering, AI integrations, RAG systems and building reliable software solutions.
 
 <details open> 
   <summary><h2>🚀 Featured Projects</h2></summary>
@@ -38,48 +37,62 @@ I'm also interested in AI integrations and process automation.
 </div>
 </details>
 
-<details> 
+<details>
   <summary><h2>🛠️ Tech Stack</h2></summary>
-  
-### Frontend & UI
 
-<p align="left">
+  ### Backend & Data
 
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=47C5FB"/>
-<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Styled_Components-111827?style=flat-square&logo=styledcomponents&logoColor=DB7093"/>
-<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6"/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
+    <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688"/>
+    <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=339933"/>
+    <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+    <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1"/>
+    <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248"/>
+    <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+    <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=flat-square&logo=sqlalchemy&logoColor=D71F00"/>
+    <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white"/>
+  </p>
 
-### Backend & Data
+  ### Frontend & UI
 
-<p align="left">
+  <p align="left">
+    <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
+    <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+    <img src="https://img.shields.io/badge/Styled_Components-111827?style=flat-square&logo=styledcomponents&logoColor=DB7093"/>
+    <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
+    <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6"/>
+    <img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=47C5FB"/>
+  </p>
 
-<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=44B78B"/>
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+  ### AI & Automation
 
-### Tools & Workflow
+  <p align="left">
+    <img src="https://img.shields.io/badge/Google_Gemini-111827?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
+    <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logo=googlescholar&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pgvector-111827?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+    <img src="https://img.shields.io/badge/OCR-111827?style=flat-square&logo=googledocs&logoColor=4285F4"/>
+    <img src="https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=EA4B71"/>
+  </p>
 
-<p align="left">
+  ### DevOps & Tools
 
-<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=46E3B7"/>
-<img src="https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=EA4B71"/>
-<img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-111827?style=flat-square&logo=githubactions&logoColor=2088FF"/>
-</p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+    <img src="https://img.shields.io/badge/Jenkins-111827?style=flat-square&logo=jenkins&logoColor=D24939"/>
+    <img src="https://img.shields.io/badge/CI%2FCD-111827?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+    <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E"/>
+    <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=46E3B7"/>
+  </p>
+
 </details>
 
 <details> 
